@@ -39,5 +39,5 @@ Register a user first, then login.
 - Console-based interaction
 - CSV report generated
 
-## 📌 Author
-Your Name
+## Author
+Varshitha S
